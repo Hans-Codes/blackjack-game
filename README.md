@@ -18,7 +18,7 @@ Clone or download the repository to your local machine.
 Ensure you have Python installed.
 
 Modify config.json to adjust game settings if desired:
-```json
+```python
 username: Your preferred player name.
 starting_money: Amount of money you start with.
 min_bet: Minimum bet allowed.
