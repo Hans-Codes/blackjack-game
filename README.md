@@ -3,7 +3,9 @@ This is a simple console-based blackjack game implemented in Python. It allows p
 
 ## Features
  -Blackjack Gameplay: Play blackjack against the dealer.
+ 
  -Customizable Settings: Adjust starting money, bet limits, and enable/disable double down and insurance through config.json.
+
  -Tip the Dealer: Optionally tip the dealer with a cool Easter egg included.
 
 ## Prerequisites
