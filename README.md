@@ -40,8 +40,8 @@ This is a simple console-based blackjack game implemented in Python. It allows p
 - Win by having a higher hand value than the dealer without exceeding 21.
 - Optionally tip the dealer with a funny Easter egg included in the game.
 
-## Contributing
-### Contributions are welcome! If you'd like to contribute to this project, you can do so in the following ways:
+### Contributing
+## Contributions are welcome! If you'd like to contribute to this project, you can do so in the following ways:
 
 - Fork the repository and create your branch from main.
 - Make your changes and test thoroughly.
