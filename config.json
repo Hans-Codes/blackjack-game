@@ -1,0 +1,8 @@
+{
+    "username": "Player",
+    "starting_money": 1000,
+    "min_bet": 10,
+    "max_bet": 100,
+    "enable_double_down": true,
+    "enable_insurance": true
+}
