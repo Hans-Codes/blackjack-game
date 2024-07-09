@@ -40,18 +40,5 @@ This is a simple console-based blackjack game implemented in Python. It allows p
 - Win by having a higher hand value than the dealer without exceeding 21.
 - Optionally tip the dealer with a funny Easter egg included in the game.
 
-## Example `config.json`
-
-```json
-{
-  "username": "Player",
-  "starting_money": 1000,
-  "min_bet": 10,
-  "max_bet": 100,
-  "enable_double_down": true,
-  "enable_insurance": true
-}
-```
-
 ## License
 This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License
