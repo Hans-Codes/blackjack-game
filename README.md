@@ -28,8 +28,8 @@ This is a simple console-based blackjack game implemented in Python. It allows p
 ## Usage
 
 1. Open your command prompt or terminal.
-2. Navigate to the directory where you saved the `blackjack.py` and `config.json` files.
-3. Run the game with the command: `python blackjack.py`.
+2. Navigate to the directory where you saved the `main.py` and `config.json` files.
+3. Run the game with the command: `main.py`.
 4. Follow the on-screen instructions to play the game.
 
 ## Gameplay Instructions
